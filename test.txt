@@ -1,0 +1,13 @@
+// What should be test
+1. Testing Component rendering
+2. UI elements that we write
+3. Function which we write
+4. API
+5. Event
+6. Props and states
+7. UI condition | UI state testing
+
+//what should not we test
+1. External UI library
+2. No need to test default function of js and react
+3. Sometime we should mock function rather than testing a function.
